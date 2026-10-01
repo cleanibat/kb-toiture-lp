@@ -69,11 +69,10 @@
   - Un couvreur se déplace chez vous
   - Devis écrit et détaillé, sans engagement
   - Réponse sous 48 h
-- **Questions** (3 à choix multiples) :
-  1. Êtes-vous propriétaire de la maison ? → Oui · Non
-  2. Quel est le type de couverture ? → Tuiles · Ardoises · Autre / je ne sais pas
-  3. Qu'observez-vous sur votre toiture ? → Mousse ou lichen · Traces noires · Tuiles ternies ou décolorées · Autre
-- **Coordonnées** (préremplies) : Nom complet · Numéro de téléphone · Code postal
+- **Questions** (2 à choix multiples, définies par Aymeric) :
+  1. Quel service souhaitez-vous ? → Nettoyage seul · Nettoyage + hydrofuge incolore · Nettoyage + hydrofuge coloré
+  2. Quelle est la taille de votre toiture ? → Petite (moins de 100 m²) · Moyenne (100 à 160 m²) · Grande (160 à 220 m²) · Très grande (plus de 220 m²)
+- **Coordonnées** (préremplies) : Prénom · Nom · Numéro de téléphone · Ville · Code postal · E-mail
 - **Confidentialité** : lien « Politique de confidentialité » → https://cleanibat.github.io/kb-toiture-lp/confidentialite.html
 - **Message de fin** — Titre : « Merci, votre demande est envoyée » · Texte : « Nous vous rappelons sous 48 h pour fixer le rendez-vous de diagnostic. » · Bouton : « Appeler KB Toiture » → +33665425003
 
