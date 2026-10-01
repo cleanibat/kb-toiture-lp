@@ -16,51 +16,123 @@
 
 ## Publicités (variantes de texte et de bouton, même vidéo dans l'ensemble)
 
+Style demandé par Aymeric : accroche courte, émojis, puces, un seul angle par publicité, pas de texte fourre-tout.
+
 ### Ensemble V1 – Problème / méthode
 
-**V1-A** · bouton « Obtenir un devis »
-- Texte : Mousse, lichen, traces noires sur votre toiture ? Nos techniciens la nettoient à basse pression, avec des produits adaptés à vos tuiles, puis appliquent un hydrofuge incolore ou coloré pour la protéger. Diagnostic à domicile offert en Haute-Marne, Marne et Meuse : remplissez le formulaire, nous vous rappelons.
-- Titre : Nettoyage de toiture – diagnostic offert
-- Description : KB Toiture, couvreur à Saint-Dizier
+**V1-A – Toiture noircie** · bouton « Obtenir un devis »
+```
+🏠 Votre toiture a noirci ?
 
-**V1-B** · bouton « En savoir plus »
-- Texte : Une toiture couverte de mousse retient l'eau et vieillit plus vite. KB Toiture, couvreur à Saint-Dizier, la nettoie sans abîmer vos tuiles et la protège avec un traitement hydrofuge. Demandez votre diagnostic gratuit à domicile.
-- Titre : Votre toiture a noirci ?
-- Description : Démoussage + hydrofuge
+Mousse, lichen, traces noires : plus vous attendez, plus vos tuiles s'abîment.
 
-**V1-C** · bouton « Demander un devis » (ou « Obtenir un devis » si indisponible)
-- Texte : Démoussage, nettoyage basse pression, hydrofuge : nous redonnons sa teinte à votre toiture et nous la protégeons de l'humidité. Devis gratuit et sans engagement.
-- Titre : Démoussage de toiture près de Saint-Dizier
-- Description : Devis gratuit, sans engagement
+✅ Nettoyage basse pression, sans abîmer vos tuiles
+✅ Hydrofuge incolore ou coloré
+✅ Diagnostic à domicile offert
+
+📍 Haute-Marne, Marne, Meuse
+👉 Remplissez le formulaire, on vous rappelle sous 48 h.
+```
+- Titre : Diagnostic toiture offert 🏠
+- Description : KB Toiture · Saint-Dizier
+
+**V1-B – Avant l'hiver** · bouton « En savoir plus »
+```
+❄️ La mousse garde l'eau sur vos tuiles. Au premier gel, elles se fissurent.
+
+Un nettoyage coûte bien moins cher qu'une toiture à refaire.
+
+✅ Démoussage complet
+✅ Traitement hydrofuge
+✅ Devis gratuit, sans engagement
+
+👉 Demandez votre diagnostic à domicile.
+```
+- Titre : Protégez vos tuiles avant l'hiver ❄️
+- Description : Devis gratuit
+
+**V1-C – Résultat** · bouton « Obtenir un devis »
+```
+✨ Une toiture comme neuve, sans la refaire.
+
+Nettoyage + hydrofuge coloré : vos tuiles retrouvent leur teinte et sont protégées de l'humidité.
+
+👉 Devis gratuit, réponse sous 48 h.
+```
+- Titre : Redonnez sa couleur à votre toiture
+- Description : Sans engagement
 
 ### Ensemble V2 – Zone / diagnostic offert
 
-**V2-A** · bouton « Obtenir un devis »
-- Texte : Vous habitez en Haute-Marne, dans la Marne ou dans la Meuse ? Traces noires, mousse, lichen : KB Toiture nettoie votre toiture à basse pression et la protège avec un hydrofuge incolore ou coloré. En ce moment, le diagnostic à domicile est offert, sans engagement.
+**V2-A – Local + offre** · bouton « Obtenir un devis »
+```
+📍 Propriétaire en Haute-Marne, Marne ou Meuse ?
+
+En ce moment, KB Toiture vous offre le diagnostic de votre toiture à domicile.
+
+✅ Un couvreur se déplace chez vous
+✅ Devis écrit, sans engagement
+✅ Réponse sous 48 h
+
+👉 Réservez votre diagnostic avec le formulaire.
+```
 - Titre : Diagnostic toiture offert à domicile
 - Description : Haute-Marne · Marne · Meuse
 
-**V2-B** · bouton « En savoir plus »
-- Texte : Saint-Dizier, Wassy, Joinville, Vitry-le-François, Bar-le-Duc… Nos couvreurs se déplacent chez vous pour examiner votre toiture et vous remettre un devis écrit. Nettoyage basse pression et traitement hydrofuge.
-- Titre : Nettoyage de toiture près de chez vous
-- Description : Diagnostic gratuit
+**V2-B – Preuve** · bouton « En savoir plus » (chiffres repris de la vidéo 1, à confirmer avec le client)
+```
+⭐ Noté 4,9/5 sur Google
 
-**V2-C** · bouton « S'inscrire »
-- Texte : Propriétaire d'une maison autour de Saint-Dizier ? Faites examiner votre toiture par un couvreur : mousse, tuiles poreuses, gouttières. Le diagnostic est gratuit et sans engagement.
-- Titre : Faites examiner votre toiture
+Chaque année, plusieurs centaines de propriétaires nous confient leur toiture.
+
+✅ Nettoyage basse pression
+✅ Hydrofuge incolore ou coloré
+✅ Diagnostic offert
+
+👉 À votre tour : remplissez le formulaire.
+```
+- Titre : Le couvreur des propriétaires du 52
+- Description : KB Toiture · Saint-Dizier
+
+**V2-C – Question** · bouton « Obtenir un devis »
+```
+👀 Votre toiture donne un coup de vieux à votre maison ?
+
+Traces noires, mousse, lichen : il est encore temps d'agir.
+
+👉 Diagnostic gratuit à domicile, sans engagement.
+```
+- Titre : Il est encore temps d'agir
 - Description : Réponse sous 48 h
 
 ### Ensemble V3 – Témoignage
 
-**V3-A** · bouton « Obtenir un devis »
-- Texte : La toiture de Mme Delmont était noircie, envahie par la mousse et le lichen. Nous l'avons nettoyée avec des produits adaptés à ses tuiles, puis protégée par un hydrofuge. Vous souhaitez la même chose pour votre maison ? Devis à domicile gratuit et sans engagement.
-- Titre : Avant / après : une toiture nettoyée
-- Description : KB Toiture, Saint-Dizier
+**V3-A – Avant / après** · bouton « Obtenir un devis »
+```
+😳 Même toiture. Avant, après.
 
-**V3-B** · bouton « En savoir plus »
-- Texte : Avant : mousse, lichen, tuiles noircies. Après : une toiture propre et protégée de l'humidité. Regardez le résultat chez Mme Delmont et demandez votre devis gratuit en Haute-Marne, Marne ou Meuse.
-- Titre : Redonnez sa teinte à votre toiture
-- Description : Devis gratuit à domicile
+Chez Mme Delmont : mousse et lichen partout, tuiles noircies.
+Après notre passage : une toiture propre et protégée pour des années.
+
+✅ Nettoyage en profondeur
+✅ Hydrofuge
+✅ Devis à domicile gratuit
+
+👉 Vous voulez le même résultat ? Remplissez le formulaire.
+```
+- Titre : Avant / après : regardez le résultat
+- Description : KB Toiture · Saint-Dizier
+
+**V3-B – Projection** · bouton « En savoir plus »
+```
+🏡 Et si c'était votre toiture ?
+
+Mme Delmont pensait devoir tout refaire. Un nettoyage et un hydrofuge ont suffi.
+
+👉 Devis gratuit à domicile, sans engagement.
+```
+- Titre : Pas besoin de refaire votre toiture
+- Description : Devis gratuit
 
 ## Formulaire instantané (unique) : `KB Toiture – Devis nettoyage toiture`
 
