@@ -127,11 +127,11 @@ Après notre passage : une toiture propre et protégée pour des années.
 ```
 🏡 Et si c'était votre toiture ?
 
-Mme Delmont pensait devoir tout refaire. Un nettoyage et un hydrofuge ont suffi.
+Noircie, envahie par la mousse : la toiture de Mme Delmont a retrouvé son éclat avec un nettoyage et un hydrofuge.
 
 👉 Devis gratuit à domicile, sans engagement.
 ```
-- Titre : Pas besoin de refaire votre toiture
+- Titre : Redonnez vie à votre toiture
 - Description : Devis gratuit
 
 ## Formulaire instantané (unique) : `KB Toiture – Devis nettoyage toiture`
