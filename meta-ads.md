@@ -82,10 +82,14 @@
 - V2 : Haute-Marne, Marne, Meuse ; même méthode ; diagnostic à domicile offert sans engagement.
 - V3 : toiture de Mme Delmont avant / après ; devis à domicile gratuit et sans engagement.
 
-## État au 1er octobre 2026
+## État au 1er octobre 2026 (soir)
 
 - Portefeuille business « KB toiture » (2306275130119213), compte publicitaire « KB Toiture - Compte Publicitaire » (1569626154444797), page « KB toiture » (1048442848359368).
-- Campagne brouillon créée : `KB Toiture - Nettoyage toiture - Leads - ABO` (120248631905270605), objectif Prospects, budget au niveau des ensembles, partage de budget désactivé.
-- Ensemble `V1 - Problème / méthode` (120248631905250605) : formulaires instantanés, page KB toiture, 5 €/jour. Restent : zone, annonceur/payeur UE, puis duplication en V2 et V3.
-- Bloqué par : compte non réglé (moyen de paiement), conditions des publicités à formulaire non acceptées par la page, vidéos à envoyer dans la bibliothèque multimédia.
+- Campagne brouillon : `KB Toiture - Nettoyage toiture - Leads - ABO` (120248631905270605), objectif Prospects, budget au niveau des ensembles, partage de budget désactivé.
+- Ensemble `V1 - Problème / méthode` (120248631905250605) complet : formulaires instantanés, page KB toiture, 5 €/jour, Saint-Dizier + 40 km (rayon par défaut), annonceur UE « KB Toiture ».
+- Formulaire créé (non modifiable ensuite) : `KB Toiture - Devis nettoyage toiture`, français, intention élevée, 2 questions (service, taille), coordonnées e-mail + nom complet + téléphone (obligatoire) + ville + code postal, lien confidentialité, fin avec bouton « Appeler KB Toiture ».
+- Publicité `V1-A - Obtenir un devis` (120248631905260605) complète : vidéo 1, texte, titre, description, bouton, formulaire.
+- Restent : V1-B, V1-C, puis ensembles V2 et V3 avec leurs publicités (vidéos 2 et 3).
+- Bloqué par : solde du compte non réglé. Meta désactive « Dupliquer » et « Publier » tant qu'il n'est pas payé. Erreur d'autorisation #1487194 affichée sur la publicité, à revoir après paiement.
 - Un autre brouillon « KB Toiture » (25 €/jour) existait déjà dans le compte, non modifié.
+- Pratique : dans le Gestionnaire, cliquer sur la valeur d'un réglage (ex. « Inclusion : France ») pour l'ouvrir, pas sur le crayon ; les sous-menus s'ouvrent au clavier (flèches).
