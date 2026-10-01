@@ -72,7 +72,7 @@ ZONES = [
 
 FAQ = [
     ("Quelle est la meilleure période pour nettoyer une toiture ?",
-     "Le nettoyage se fait hors gel et par temps sec, en pratique du printemps à l'automne. L'hydrofuge s'applique sur un support sec : nous fixons la date d'intervention en fonction de la météo."),
+     "Le nettoyage se fait en toute saison. Nous fixons la date d'intervention en fonction de la météo, l'hydrofuge s'appliquant sur un support sec."),
     ("Combien coûte un nettoyage de toiture ?",
      "Le prix dépend de la surface, de la pente, de l'accès, de l'état des tuiles et du traitement choisi (démoussage seul, hydrofuge incolore ou coloré). Nous vous remettons un devis gratuit, écrit et détaillé, après avoir vu la toiture ou vos photos."),
     ("Le nettoyage risque-t-il d'abîmer mes tuiles ?",
