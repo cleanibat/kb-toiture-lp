@@ -34,7 +34,7 @@ Mousse, lichen, traces noires : plus vous attendez, plus vos tuiles s'abîment.
 👉 Remplissez le formulaire, on vous rappelle sous 48 h.
 ```
 - Titre : Diagnostic toiture offert 🏠
-- Description : KB Toiture · Saint-Dizier
+- Description : Devis gratuit · Réponse sous 48 h
 
 **V1-B – Avant l'hiver** · bouton « En savoir plus »
 ```
@@ -92,7 +92,7 @@ Chaque année, plusieurs centaines de propriétaires nous confient leur toiture.
 👉 À votre tour : remplissez le formulaire.
 ```
 - Titre : Le couvreur des propriétaires du 52
-- Description : KB Toiture · Saint-Dizier
+- Description : Devis gratuit · Réponse sous 48 h
 
 **V2-C – Question** · bouton « Obtenir un devis »
 ```
@@ -121,7 +121,7 @@ Après notre passage : une toiture propre et protégée pour des années.
 👉 Vous voulez le même résultat ? Remplissez le formulaire.
 ```
 - Titre : Avant / après : regardez le résultat
-- Description : KB Toiture · Saint-Dizier
+- Description : Devis gratuit · Réponse sous 48 h
 
 **V3-B – Projection** · bouton « En savoir plus »
 ```
