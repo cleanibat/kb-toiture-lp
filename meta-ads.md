@@ -81,3 +81,11 @@
 - V1 : toiture noircie, mousse, lichen ; méthode basse pression ; hydrofuge coloré ou incolore ; « plusieurs centaines de toitures par an », « note Google 4,9/5 » ; diagnostic à domicile offert.
 - V2 : Haute-Marne, Marne, Meuse ; même méthode ; diagnostic à domicile offert sans engagement.
 - V3 : toiture de Mme Delmont avant / après ; devis à domicile gratuit et sans engagement.
+
+## État au 1er octobre 2026
+
+- Portefeuille business « KB toiture » (2306275130119213), compte publicitaire « KB Toiture - Compte Publicitaire » (1569626154444797), page « KB toiture » (1048442848359368).
+- Campagne brouillon créée : `KB Toiture - Nettoyage toiture - Leads - ABO` (120248631905270605), objectif Prospects, budget au niveau des ensembles, partage de budget désactivé.
+- Ensemble `V1 - Problème / méthode` (120248631905250605) : formulaires instantanés, page KB toiture, 5 €/jour. Restent : zone, annonceur/payeur UE, puis duplication en V2 et V3.
+- Bloqué par : compte non réglé (moyen de paiement), conditions des publicités à formulaire non acceptées par la page, vidéos à envoyer dans la bibliothèque multimédia.
+- Un autre brouillon « KB Toiture » (25 €/jour) existait déjà dans le compte, non modifié.
