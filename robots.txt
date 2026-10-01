@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cleanibat.github.io/kb-toiture-lp/sitemap.xml
