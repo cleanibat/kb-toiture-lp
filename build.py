@@ -149,7 +149,7 @@ def footer():
     <div><h3>Contact</h3><p><a href="tel:{TEL_INT}">{TEL_FR}</a><br><a href="mailto:{EMAIL}">{EMAIL}</a><br>{ADDRESS[0]}<br>{ADDRESS[1]} {ADDRESS[2]}</p></div>
     <div><h3>KB Toiture</h3><p><a href="{MAIN_SITE}">Site principal : kbtoiture.fr</a><br><a href="{MAIN_SITE}couverture">Couverture</a><br><a href="{MAIN_SITE}zinguerie">Zinguerie</a></p></div>
   </div>
-  <div class="wrap foot-legal">© <span id="year">2026</span> {BRAND} · Les informations envoyées par le formulaire servent uniquement à répondre à votre demande.</div>
+  <div class="wrap foot-legal">© <span id="year">2026</span> {BRAND} · Les informations envoyées par le formulaire servent uniquement à répondre à votre demande. · <a href="confidentialite.html">Politique de confidentialité</a></div>
 </footer>
 <div class="mbar"><a href="tel:{TEL_INT}" class="mbar-call">{ICON_PHONE} Appeler</a><a href="#devis" class="mbar-form">Devis gratuit</a></div>
 <script src="main.js" defer></script>
@@ -286,9 +286,31 @@ def merci():
 </main>
 """ + footer()
 
+def confidentialite():
+    return head("Politique de confidentialité | " + BRAND, "Politique de confidentialité de KB Toiture.", "confidentialite.html", "noindex, follow") + header() + f"""
+<main>
+<section class="sec">
+  <div class="wrap narrow legal">
+    <h1>Politique de confidentialité</h1>
+    <h2>Responsable du traitement</h2>
+    <p>{BRAND}, {ADDRESS[0]}, {ADDRESS[1]} {ADDRESS[2]}. Contact : <a href="mailto:{EMAIL}">{EMAIL}</a>, <a href="tel:{TEL_INT}">{TEL_FR}</a>.</p>
+    <h2>Données collectées</h2>
+    <p>Lorsque vous remplissez un formulaire de demande de devis (sur ce site ou dans une publicité Facebook ou Instagram), nous recueillons les informations que vous indiquez : nom, téléphone, e-mail, commune ou code postal, et les réponses sur votre toiture.</p>
+    <h2>Utilisation</h2>
+    <p>Ces données servent uniquement à vous recontacter et à préparer votre devis. Elles ne sont ni vendues ni cédées à des tiers. Elles sont traitées par {BRAND} et par ses prestataires techniques (hébergement, messagerie, gestion des demandes).</p>
+    <h2>Durée de conservation</h2>
+    <p>Vos données sont conservées trois ans au maximum après notre dernier échange, puis supprimées.</p>
+    <h2>Vos droits</h2>
+    <p>Vous pouvez demander l'accès à vos données, leur rectification ou leur suppression, et vous opposer à leur utilisation, en écrivant à <a href="mailto:{EMAIL}">{EMAIL}</a>. Vous pouvez aussi adresser une réclamation à la CNIL (cnil.fr).</p>
+  </div>
+</section>
+</main>
+""" + footer()
+
 if __name__ == "__main__":
     open("index.html", "w", encoding="utf-8").write(index())
     open("merci.html", "w", encoding="utf-8").write(merci())
+    open("confidentialite.html", "w", encoding="utf-8").write(confidentialite())
     open("robots.txt", "w").write(f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}sitemap.xml\n")
     today = datetime.date.today().isoformat()
     urls = f"<url><loc>{SITE_URL}</loc><lastmod>{today}</lastmod></url>" if ROBOTS.startswith("index") else ""
