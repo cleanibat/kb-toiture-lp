@@ -154,14 +154,14 @@ Noircie, envahie par la mousse : la toiture de Mme Delmont a retrouvé son écla
 - V2 : Haute-Marne, Marne, Meuse ; même méthode ; diagnostic à domicile offert sans engagement.
 - V3 : toiture de Mme Delmont avant / après ; devis à domicile gratuit et sans engagement.
 
-## État au 1er octobre 2026 (soir)
+## État au 3 octobre 2026
 
-- Portefeuille business « KB toiture » (2306275130119213), compte publicitaire « KB Toiture - Compte Publicitaire » (1569626154444797), page « KB toiture » (1048442848359368).
-- Campagne brouillon : `KB Toiture - Nettoyage toiture - Leads - ABO` (120248631905270605), objectif Prospects, budget au niveau des ensembles, partage de budget désactivé.
-- Ensemble `V1 - Problème / méthode` (120248631905250605) complet : formulaires instantanés, page KB toiture, 5 €/jour, Saint-Dizier + 40 km (rayon par défaut), annonceur UE « KB Toiture ».
-- Formulaire créé (non modifiable ensuite) : `KB Toiture - Devis nettoyage toiture`, français, intention élevée, 2 questions (service, taille), coordonnées e-mail + nom complet + téléphone (obligatoire) + ville + code postal, lien confidentialité, fin avec bouton « Appeler KB Toiture ».
-- Publicité `V1-A - Obtenir un devis` (120248631905260605) complète : vidéo 1, texte, titre, description, bouton, formulaire.
-- Restent : V1-B, V1-C, puis ensembles V2 et V3 avec leurs publicités (vidéos 2 et 3).
-- Bloqué par : solde du compte non réglé. Meta désactive « Dupliquer » et « Publier » tant qu'il n'est pas payé. Erreur d'autorisation #1487194 affichée sur la publicité, à revoir après paiement.
-- Un autre brouillon « KB Toiture » (25 €/jour) existait déjà dans le compte, non modifié.
-- Pratique : dans le Gestionnaire, cliquer sur la valeur d'un réglage (ex. « Inclusion : France ») pour l'ouvrir, pas sur le crayon ; les sous-menus s'ouvrent au clavier (flèches).
+- Compte débloqué par l'assistance Meta (fonds prépayés 420 €).
+- Campagne `KB Toiture - Nettoyage toiture - Leads - ABO` (120248631905270605) en brouillon, prête à publier, sans erreur bloquante.
+- 3 ensembles à 5 €/jour, Saint-Dizier + 40 km, formulaires instantanés, page KB toiture, formulaire `KB Toiture - Devis nettoyage toiture` :
+  - `V1 - Problème / méthode` (vidéo 1) : V1-A, V1-B, V1-C
+  - `V2 - Zone / diagnostic offert` (vidéo 2) : V2-A, V2-B, V2-C
+  - `V3 - Témoignage` (vidéo 3) : V3-A, V3-B, V3-C (V3-C ajoutée : angle « un couvreur sur votre toit »)
+- Ancienne V1-A (erreur d'autorisation #1487194, créée dans le navigateur intégré) remplacée par une copie propre.
+- À la publication : décocher la campagne brouillon « KB Toiture » (25 €/jour, préexistante) dans la fenêtre « Vérifier et publier », elle se recoche par défaut.
+- Méthode qui marche : Claude in Chrome (fenêtre normale). Remplacer une vidéo = corbeille à côté de « Modifier le contenu multimédia » puis « Ajouter du contenu > Ajouter une vidéo », étape « Texte » de l'assistant pour les textes.
