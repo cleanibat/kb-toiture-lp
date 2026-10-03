@@ -154,14 +154,10 @@ Noircie, envahie par la mousse : la toiture de Mme Delmont a retrouvé son écla
 - V2 : Haute-Marne, Marne, Meuse ; même méthode ; diagnostic à domicile offert sans engagement.
 - V3 : toiture de Mme Delmont avant / après ; devis à domicile gratuit et sans engagement.
 
-## État au 3 octobre 2026
+## État au 3 octobre 2026 (campagne lancée)
 
-- Compte débloqué par l'assistance Meta (fonds prépayés 420 €).
-- Campagne `KB Toiture - Nettoyage toiture - Leads - ABO` (120248631905270605) en brouillon, prête à publier, sans erreur bloquante.
-- 3 ensembles à 5 €/jour, Saint-Dizier + 40 km, formulaires instantanés, page KB toiture, formulaire `KB Toiture - Devis nettoyage toiture` :
-  - `V1 - Problème / méthode` (vidéo 1) : V1-A, V1-B, V1-C
-  - `V2 - Zone / diagnostic offert` (vidéo 2) : V2-A, V2-B, V2-C
-  - `V3 - Témoignage` (vidéo 3) : V3-A, V3-B, V3-C (V3-C ajoutée : angle « un couvreur sur votre toit »)
-- Ancienne V1-A (erreur d'autorisation #1487194, créée dans le navigateur intégré) remplacée par une copie propre.
-- À la publication : décocher la campagne brouillon « KB Toiture » (25 €/jour, préexistante) dans la fenêtre « Vérifier et publier », elle se recoche par défaut.
-- Méthode qui marche : Claude in Chrome (fenêtre normale). Remplacer une vidéo = corbeille à côté de « Modifier le contenu multimédia » puis « Ajouter du contenu > Ajouter une vidéo », étape « Texte » de l'assistant pour les textes.
+- Campagne `KB Toiture - Nettoyage toiture - Leads - ABO` publiée et active. 9 publicités : 5 actives, 4 en « Préparation en cours » chez Meta au moment du contrôle (V1-B, V2-B, V2-C, V3-B).
+- Ancien brouillon « KB Toiture » 25 €/jour : n'apparaît plus dans le compte.
+- Centre de prospects : aucun lead réel au moment du contrôle (seulement le « Sample Lead » de Meta).
+- Make : connexion Facebook « 2026 » (13667458) réautorisée ; webhook Lead Ads 4412375 (formulaire 1810839280108083) ; scénario 9910251 actif : Facebook → variables → webhook commun (CRM Google Sheet 1gSvXynVwQU_hXZVyazETt7vqJhNX99TBEbTipVa0LdQ) → alerte à kbtoiture2@gmail.com (copie cachée aymeric@cleanibat.fr) → confirmation au prospect si e-mail. Expéditeur « KB Toiture » <aymeric@cleanibat.fr>, Reply-To kbtoiture2@gmail.com.
+- Reste : test réel du formulaire (outil de test Meta), suppression de la ligne « TEST Agence » du 01/10 dans l'onglet Leads, mise à jour Notion (onboarding).
